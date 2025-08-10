@@ -14,7 +14,7 @@ This project is great for:
 ---
 
 ## 📸 Screenshot
-![Simon Game Screenshot](screenshot.png)
+![Simon Game Screenshot](Screenshot.png)
 
 ---
 ## 🚀 How to Play
